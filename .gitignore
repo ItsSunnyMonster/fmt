@@ -35,3 +35,8 @@ FMT.build
 Makefile
 run-msbuild.bat
 fmt.pc
+
+# Visual Studio Project Files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
